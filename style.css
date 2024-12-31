@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:
+wght@200..900&display=swap');
+body[
+    font-family: "Inconsolata", serif;
+]
+
+.service-text{
+    font-size: 36pix;
+
+}
+.service-text2{
+    color: #7d7987;
+    font-size: 18px;
+}
+
+.box-container{
+    background-image: url("images/bg\ element.png");
+}
