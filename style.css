@@ -15,4 +15,5 @@ body[
 
 .box-container{
     background-image: url("images/bg\ element.png");
+    background-repeat: no-repeat;
 }
